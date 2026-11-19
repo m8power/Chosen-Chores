@@ -1,3 +1,5 @@
+These are most of the scripts I’ve used in the development of our multiplayer project, Chosen Chores. It’s a co-op survival horror game in which you have to explore locations, find key items to progress, and figure out ways to fight enemies.
+
 1. In "Altar" folder you can see one of the mechanics that I impliment in my co-op prototype
    Its reading the players locations and current status. If 2 or 3 players casting a summoning spell on the relevant area, altar activating and consuming everyone who was in activation area.
 
